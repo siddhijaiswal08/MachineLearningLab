@@ -50,7 +50,7 @@ By the end of this lab, students will be able to:
 ## 👩‍💻 Author
 **Siddhi Jaiswal**  
 B.Tech (Computer Science and Engineering)  
-Symbiosis Institute of Technology, Pune  
+Symbiosis Institute of Technology, Nagpur  
 
 ---
 
